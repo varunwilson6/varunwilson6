@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @varunwilson6
 - 👀 I’m interested in finding solutions and coding in a better way, seems to sell the value which i can create
-- 🌱 I’m currently learning Angular
-- 💞️ I’m looking to collaborate on just code
+- 🌱 I’m currently learning Angular 
 - 📫 You can reach me via varunwilson6@gmail.com or make it little bit professional on linkedin @varun-wilson-5b773645
 
 <!---
